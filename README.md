@@ -1,8 +1,10 @@
-# ⚠️ DEPRECATED
+# ⚠️  Changes
+I do not plan to make changes beyond "making it work" for myself.
+Feel free to open PRs. If there is an issue "getting it to work" open an issue.
+If you have a problem with the colors, that's not an issue, that's an opinion.
 
- This extension is now deprecated. I have not been using this extension for years and I don't have time to maintain this project anymore.
- 
- I hope that someone will eventually fork and maintain a new repo.
+# Forked
+[I did none of the work](https://github.com/Vincent-P/gruvbox-intellij-theme). I only intend to keep this working for my personal purposes.
  
 # Gruvbox Intellij IDEA Theme
 
