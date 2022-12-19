@@ -1,7 +1,7 @@
 <idea-plugin>
-    <id>com.vincentp.gruvbox-theme</id>
-    <name>Gruvbox Theme</name>
-    <vendor email="vincent.parizet@hotmail.fr" url="https://github.com/Vincent-P">Vincent Parizet</vendor>
+    <id>com.taylorrayhoward.gruvbox-theme</id>
+    <name>Gruvbox Theme Reloaded</name>
+    <vendor email="code@taylorrayhoward.com" url="https://github.com/TaylorRayHoward">Taylor Ray Howard</vendor>
 
     <description><![CDATA[
     gruvbox is heavily inspired by badwolf, jellybeans and solarized.

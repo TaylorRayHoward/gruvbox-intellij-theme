@@ -1,4 +1,4 @@
-rootProject.name = "Gruvbox theme"
+rootProject.name = "Gruvbox theme reloaded"
 
 pluginManagement {
     repositories {
