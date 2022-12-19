@@ -1,12 +1,12 @@
 <idea-plugin>
-    <id>com.vincentp.gruvbox-theme</id>
-    <name>Gruvbox Theme</name>
-    <vendor email="vincent.parizet@hotmail.fr" url="https://github.com/Vincent-P">Vincent Parizet</vendor>
+    <id>com.taylorrayhoward.gruvbox-theme</id>
+    <name>Gruvbox Theme Reloaded</name>
+    <vendor email="code@taylorrayhoward.com" url="https://github.com/TaylorRayHoward">Taylor Ray Howard</vendor>
 
     <description><![CDATA[
-    gruvbox is heavily inspired by badwolf, jellybeans and solarized.
+      Originally forked from [Vincent-P](https://github.com/Vincent-P/gruvbox-intellij-theme).
 
-    Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
+      [gruvbox](https://github.com/morhetz/gruvbox) is heavily inspired by badwolf, jellybeans and solarized.
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
