@@ -1,7 +1,8 @@
 # ⚠️  Changes
 I do not plan to make changes beyond "making it work" for myself.
 Feel free to open PRs. If there is an issue "getting it to work" open an issue.
-If you have a problem with the colors, that's not an issue, that's an opinion.
+If you have a problem with the colors, feel free to plead your case.
+
 
 # Forked
 [I did none of the work](https://github.com/Vincent-P/gruvbox-intellij-theme). I only intend to keep this working for my personal purposes.
